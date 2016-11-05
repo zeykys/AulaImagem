@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Extrato Bancario</string>
+    <string name="busca_agencia">Agencia</string>
+    <string name="busca_conta">Conta</string>
+    <string name="busca_cliente">Data</string>
+    <string name="botao_busca">Buscar</string>
+    <string name="label_cliente_nome">Data:</string>
+    <string name="label_cliente_fone">Valor:</string>
+    <string name="label_cliente_email">Email:</string>
+</resources>
